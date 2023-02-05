@@ -4,7 +4,7 @@
 
 <img src=".github/preview.gif" />
 
-<a href="">Aplicação online</a>
+<a href="https://brunogoncalvesferreira.github.io/generator-password/">Aplicação online</a>
 
 <p>A tecnologia que eu escolhi para construir está aplicação foi o Javascript em conjunto com a linguagem de marcação de texto HTML e a linguagem de estilos CSS.</p>
 
